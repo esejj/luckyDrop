@@ -1,0 +1,11 @@
+main: dev.esejj.luckydrop
+name: luckyDrop 
+version: 0.1
+author: esej
+description: Drop ze stone.
+commands:
+  luckydrop:drop:
+    usage: /drop
+    permission: esej.luckydrop
+    permission-message: Nie posiadasz uprawnien (esej.luckydrop)
+    aliases: [drop, surowce, kamien, stone]
